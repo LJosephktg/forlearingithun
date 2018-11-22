@@ -1,1 +1,21 @@
 Text field from github
+
+
+The first line 
+second line
+third line 1 file changed, 1 insertion(+)
+ create mode 100644 sample
+joseph@Jack:~/Documents/sample/forlearingithun$ git push origin  master 
+Username for 'https://github.com': LJosephktg
+Password for 'https://LJosephktg@github.com': 
+Counting objects: 3, done.
+Writing objects: 100% (3/3), 230 bytes | 230.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+remote: 
+remote: Create a pull request for 'master' on GitHub by visiting:
+remote:      https://github.com/LJosephktg/forlearingithun/pull/new/master
+remote: 
+To https://github.com/LJosephktg/forlearingithun.git
+ * [new branch]      master -> master
+joseph@Jack:~/Documents/sample/forlearingithun$ 
+
